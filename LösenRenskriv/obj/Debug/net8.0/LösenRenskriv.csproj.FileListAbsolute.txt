@@ -1,0 +1,14 @@
+C:\Users\hanna\Desktop\lösenprojekt\LösenRenskriv\bin\Debug\net8.0\LösenRenskriv.exe
+C:\Users\hanna\Desktop\lösenprojekt\LösenRenskriv\bin\Debug\net8.0\LösenRenskriv.deps.json
+C:\Users\hanna\Desktop\lösenprojekt\LösenRenskriv\bin\Debug\net8.0\LösenRenskriv.runtimeconfig.json
+C:\Users\hanna\Desktop\lösenprojekt\LösenRenskriv\bin\Debug\net8.0\LösenRenskriv.dll
+C:\Users\hanna\Desktop\lösenprojekt\LösenRenskriv\bin\Debug\net8.0\LösenRenskriv.pdb
+C:\Users\hanna\Desktop\lösenprojekt\LösenRenskriv\obj\Debug\net8.0\LösenRenskriv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanna\Desktop\lösenprojekt\LösenRenskriv\obj\Debug\net8.0\LösenRenskriv.AssemblyInfoInputs.cache
+C:\Users\hanna\Desktop\lösenprojekt\LösenRenskriv\obj\Debug\net8.0\LösenRenskriv.AssemblyInfo.cs
+C:\Users\hanna\Desktop\lösenprojekt\LösenRenskriv\obj\Debug\net8.0\LösenRenskriv.csproj.CoreCompileInputs.cache
+C:\Users\hanna\Desktop\lösenprojekt\LösenRenskriv\obj\Debug\net8.0\LösenRenskriv.dll
+C:\Users\hanna\Desktop\lösenprojekt\LösenRenskriv\obj\Debug\net8.0\refint\LösenRenskriv.dll
+C:\Users\hanna\Desktop\lösenprojekt\LösenRenskriv\obj\Debug\net8.0\LösenRenskriv.pdb
+C:\Users\hanna\Desktop\lösenprojekt\LösenRenskriv\obj\Debug\net8.0\LösenRenskriv.genruntimeconfig.cache
+C:\Users\hanna\Desktop\lösenprojekt\LösenRenskriv\obj\Debug\net8.0\ref\LösenRenskriv.dll
